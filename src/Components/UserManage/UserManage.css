@@ -1,0 +1,28 @@
+.google-color {
+    background-color: #c32f10;
+    transition: 0.2s;
+}
+.twitter-color {
+    background-color: #00aced;
+    transition: 0.2s;
+}
+.facebook-color {
+    background-color: #3b5998;
+    transition: 0.2s;
+}
+.github-color {
+    background-color: #171515;
+    transition: 0.2s;
+}
+.google-color:hover {
+    background-color: #c32e10cc;
+}
+.twitter-color:hover {
+    background-color: #00aeedd0;
+}
+.facebook-color:hover {
+    background-color: #3b5898c9;
+}
+.github-color:hover {
+    background-color: #171515d0;
+}
